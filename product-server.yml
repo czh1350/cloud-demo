@@ -11,4 +11,4 @@ management:
     web:
       exposure:
         include: "*"
-env: product2020
+env: product2022
